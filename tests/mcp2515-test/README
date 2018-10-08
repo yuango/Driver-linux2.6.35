@@ -1,0 +1,3 @@
+Usage: arm-linux-gcc -o xx xx.c -pthread
+
+Test result: when baudrate is set to 500kbps, the test rate can reach 8kbytes/s
